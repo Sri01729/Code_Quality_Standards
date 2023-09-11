@@ -3,7 +3,7 @@
 Welcome to the Quality Code Checklist Repository! This repository is dedicated to providing a comprehensive checklist for writing high-quality code based on insights from various online articles.
 
 ## Articles
-### 1.[What Is Code Quality? Overview + How to Improve Code Quality](https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality)
+### 1. [What Is Code Quality? Overview + How to Improve Code Quality](https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality)
 
 This article delves into code quality metrics, exploring the subjective nature of what constitutes good and bad code. It highlights the significance of code quality and its far-reaching impact on software reliability and security, particularly in safety-critical systems.
 
@@ -39,7 +39,7 @@ Selecting the right code quality tools, such as static analyzers like Helix QAC 
  - [x] Understand that introducing quality early can reduce long-term maintenance costs and technical debt.
  - [x] Consider using code quality tools like static analyzers (e.g., Helix QAC and Klocwork) to enforce coding standards and monitor quality metrics.
 
-### 2.[Clean Code in PHP: Best Practices and Principles](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7)
+### 2. [Clean Code in PHP: Best Practices and Principles](https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf2f1673a7)
 
  #### Checklist Summary
 
@@ -281,6 +281,55 @@ This checklist summarizes the key principles and examples for writing clean code
 - [x]  Document the code effectively to provide context and understanding.
 - [x]  Emphasize simplicity in code design to facilitate future modifications.
 - [x]  This checklist summarizes the key aspects of understanding, measuring, and improving code quality, which is crucial for creating reliable and maintainable software or programs.
+
+
+
+
+### 4. [The Engineer’s Complete Guide to Code Quality](https://stepsize.com/blog/the-engineers-complete-guide-to-code-quality)
+
+#### Checklist Summary
+
+##### 1. Understanding Code Quality
+
+ - [x] Code quality refers to the attributes and characteristics of code.
+ - [x] Key markers of good code include cleanliness, consistency, functionality, ease of understanding, efficiency, testability, maintainability, and documentation.
+ - [x] Code quality can vary based on individual and team perceptions.
+
+##### 2. Documentation, Code Standards, and Style Guides
+
+ - [x] Documentation serves as a message to future developers, providing insights into coding decisions.
+ - [x] Code standards promote uniformity and ease of use.
+ - [x] Style guides establish naming conventions and best practices for consistency.
+ - [x] Agreement and training are essential for effective adoption.
+
+##### 3. The Importance of Code Reviews
+
+ - [x] Code reviews are crucial for locating problems early in the development process.
+ - [x] They ensure code consistency and reliability.
+ - [x] Code reviews help identify errors faster, making them easier and cheaper to resolve.
+ - [x]  SmartBear Software's survey highlights the significance of code reviews in boosting code quality.
+
+##### 4. Conducting Effective Code Reviews
+
+- [x]  Code reviews can be done manually, through pair programming, mentoring, or shared documents.
+- [x] Automated code review tools streamline the process.
+- [x]  GitHub, pull requests, and forks are commonly used for manual code reviews.
+- [x]  Tools like Stepsize offer bespoke tech debt management during code reviews.
+- [x]  Static analysis tools identify code quality and security issues in real-time.
+
+##### 5. Code Refactoring
+
+- [x] Refactoring transforms messy, incorrect, or repetitive code into cleaner, lower-complexity code.
+- [x]  It addresses standardization issues when multiple developers contribute.
+- [x]  Refactored code is easier to read, maintain, and expand.
+- [x]  Removing duplications can optimize memory usage and improve performance.
+
+##### 6. Wrapping Up
+
+- [x]  High-quality code leads to higher-quality software and increased team satisfaction.
+- [x]  Collaborative AI tools like CollabGPT can aid in project context and decision-making, enhancing code quality.
+- [x] Improving code quality involves understanding, documentation, standards, code reviews, tools, and refactoring practices, all contributing to better software development outcomes.
+
 
 
 
