@@ -1,4 +1,7 @@
-# Quality Code Checklist
+
+Name: SAI SRINIVAS ALAHARI
+
+# [Quality Code Checklist](https://github.com/Sri01729/Code_Quality_Standards)
 
 Welcome to the Quality Code Checklist Repository! This repository is dedicated to providing a comprehensive checklist for writing high-quality code based on insights from various online articles.
 
