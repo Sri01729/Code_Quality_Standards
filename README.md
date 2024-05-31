@@ -1,6 +1,3 @@
-
-Name: SAI SRINIVAS ALAHARI
-
 # [Quality Code Checklist](https://github.com/Sri01729/Code_Quality_Standards)
 
 Welcome to the Quality Code Checklist Repository! This repository is dedicated to providing a comprehensive checklist for writing high-quality code based on insights from various online articles.
@@ -377,9 +374,3 @@ This checklist summarizes the key principles and examples for writing clean code
 - [x] Collaborative AI tools can enhance code quality by providing project context and insights.
 
 This comprehensive checklist combines the best points from different articles to create a unified guide for improving code quality.
-
-
-
-##### Self evaluation
-
-I believe I've done a good job (3 on a scale of 4) in creating this quality code checklist. The challenging part was searching through various online articles to determine which one provided the best information. Since I'm relatively new to PHP, it took some time to grasp the concepts in the PHP code article. However, reading these articles exposed me to new points that I wasn't previously familiar with, particularly regarding code standards.
